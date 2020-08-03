@@ -2,11 +2,11 @@ class Dog
 
 def name=(name)
  @dogs_name = name
- end
+  end
 
  def name
    @dogs_name
- end
+  end
 
  def bark
 puts "Woof!"
