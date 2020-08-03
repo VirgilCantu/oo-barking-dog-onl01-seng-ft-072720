@@ -6,4 +6,5 @@ def name=(name)
 
  def name
    @dogs_name
+ end
 end
